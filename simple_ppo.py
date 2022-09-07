@@ -6,6 +6,8 @@ Based on:
 2. Proximal Policy Optimization Algorithms (OpenAI): [https://arxiv.org/abs/1707.06347]
 3. Generalized Advantage Estimation [https://arxiv.org/abs/1506.02438]
 
+https://github.com/Anjum48/rl-examples/blob/master/ppo/ppo.py
+
 """
 #!/usr/bin/env python3
 import tensorflow as tf
